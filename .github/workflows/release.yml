@@ -71,6 +71,7 @@ jobs:
           test -f dist/demos/draw_demo.feb || { echo "Missing demos/draw_demo.feb"; exit 1; }
           test -f dist/all-flashiibo-febs.zip || { echo "Missing all-flashiibo-febs.zip"; exit 1; }
           test -f dist/sha256sums.txt || { echo "Missing sha256sums.txt"; exit 1; }
+          test -f dist/games/doodle_jump.feb || { echo "Missing games/doodle_jump.feb"; exit 1; }
           echo "All game, app, and demo artifacts present and verified."
 
       - name: Upload build artifacts
