@@ -35,7 +35,6 @@ help:
 	@echo "  flappy_bird    Build Flappy Bird sprite demo application"
 	@echo "  sokoban        Build 10-level Sokoban puzzle game"
 	@echo "  digital_pet    Build advanced virtual pet simulation with persistence"
-    @echo "  doodle_jump    Build hoppy game"
 	@echo ""
 	@echo "Developer Examples & Demos (in examples/demos/):"
 	@echo "  template       Build starter template application"
