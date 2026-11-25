@@ -5,7 +5,7 @@ APP_TITLE = Slot Machine
 APP_AUTHOR = Developer
 APP_VER = 1.0.0
 
-TARGET = slots.feb
+TARGET = slot_machine.feb
 
 .PHONY: all clean install
 
