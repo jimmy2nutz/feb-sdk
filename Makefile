@@ -1,7 +1,7 @@
 # Flashiibo FEB (Flashiibo Executable Binary) Root Makefile
 # Targets the Flashiibo Gen3 FEB runtime (Beta & Experimental).
 
-GAMES := 2048 flappy_bird sokoban digital_pet mastermind snake falling_blocks doodle_jump
+GAMES := 2048 flappy_bird sokoban digital_pet mastermind snake falling_blocks doodle_jump slot_machine
 DEMOS := template button_demo draw_demo
 APPS := stopwatch flashlight sos dice dnd_dice
 EXAMPLES := $(GAMES) $(DEMOS) $(APPS)
